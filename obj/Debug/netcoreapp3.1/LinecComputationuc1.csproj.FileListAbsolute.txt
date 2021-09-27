@@ -1,0 +1,14 @@
+D:\LineComputation\LinecComputationuc1\bin\Debug\netcoreapp3.1\LinecComputationuc1.exe
+D:\LineComputation\LinecComputationuc1\bin\Debug\netcoreapp3.1\LinecComputationuc1.deps.json
+D:\LineComputation\LinecComputationuc1\bin\Debug\netcoreapp3.1\LinecComputationuc1.runtimeconfig.json
+D:\LineComputation\LinecComputationuc1\bin\Debug\netcoreapp3.1\LinecComputationuc1.runtimeconfig.dev.json
+D:\LineComputation\LinecComputationuc1\bin\Debug\netcoreapp3.1\LinecComputationuc1.dll
+D:\LineComputation\LinecComputationuc1\bin\Debug\netcoreapp3.1\LinecComputationuc1.pdb
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.csproj.AssemblyReference.cache
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.GeneratedMSBuildEditorConfig.editorconfig
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.AssemblyInfoInputs.cache
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.AssemblyInfo.cs
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.csproj.CoreCompileInputs.cache
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.dll
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.pdb
+D:\LineComputation\LinecComputationuc1\obj\Debug\netcoreapp3.1\LinecComputationuc1.genruntimeconfig.cache
