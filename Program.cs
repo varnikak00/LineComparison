@@ -1,24 +1,31 @@
 ﻿using System;
 
-namespace LinecComputationuc1
+namespace LineComparisonuc3
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to Line comparison computation");
-
-            double line1, line2;
-            Program p = new Program();
-            p.takeCartesiaPoint();
-            line1 = p.computeDistance();
-            Console.WriteLine("Line distance is " + line1);
-
-            p.takeCartesiaPoint();
-            line2 = p.computeDistance();
-            Console.WriteLine("Line distance is " + line2);
-
-            Console.WriteLine(p.DisplayLinesRelation(line1, line2));
+        }
+        private int x1, x2, y1, y2;
+        private double dist;
+    
+        public void takeCartesiaPoint()
+        {
+            Console.WriteLine("Enter Points according x1 y1 x2 y2 ");
+            x1 = Convert.ToInt32(Console.ReadLine());
+            y1 = Convert.ToInt32(Console.ReadLine());
+            x2 = Convert.ToInt32(Console.ReadLine());
+            y2 = Convert.ToInt32(Console.ReadLine());
+        }
+        public double computeDistance()
+        {
+            int temp1 = x1 - x2;
+            int temp2 = y1 - y2;
+            dist = Math.Pow(temp1, 2) + Math.Pow(temp2, 2);
+            dist = Math.Sqrt(dist);
+            return dist;
         }
     }
-}
+    }
+
